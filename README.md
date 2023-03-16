@@ -2,7 +2,7 @@
 
 ---
 
-#### 🌹 SkyStats 🌹 is a Discord bot  that provides helpful information and statistics for players on the popular Minecraft server, Hypixel Skyblock. With a variety of slash commands, players can quickly access information about their networth, weight, and even specific statistics for games like Bedwars and Woolwars!
+#### PROJECT MOVED TO https://github.com/SkyStats-Development/SkyStats LICENCE UPDATED THERE, THIS PROJECT IS ALSO PROTECTED UNDER SAID LICENCE.
 
 ---
 
